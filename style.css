@@ -1,0 +1,33 @@
+body {
+  margin-top: 20px;
+}
+.product-card {
+  width: 100%;
+  box-shadow: 0px 0px 5px 1px #ccc;
+  margin-top: 30px;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+#receive_usa {
+  border: solid 2px rgb(111, 193, 199);
+  font-size: 30px;
+  width: 100%;
+  text-align: right;
+}
+
+#cancel {
+  text-align: center;
+  color: white;
+  background-color: red;
+  font-size: 40px;
+  cursor: pointer;
+}
+#payment {
+  color: white;
+  text-align: center;
+  background-color: rgb(51, 0, 255);
+  font-size: 40px;
+  cursor: pointer;
+}
